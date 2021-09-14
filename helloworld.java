@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class Simple{  
+class helloworld{  
     public static void main(String args[]){  
      System.out.println("Hello Java"); 
 System.out.println("Continuous Integration Jenkins");  
